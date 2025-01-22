@@ -27,8 +27,7 @@ pip install -r requirements.txt
 ```bash
 pip install -r requirements.txt
 ```
-- **Step 3:** Run the API server
-Start the FastAPI server using uvicorn:
+- **Step 3:** Run the API server. Start the FastAPI server using uvicorn:
 
 ```bash
 uvicorn main:app --reload
